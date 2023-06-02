@@ -11,3 +11,6 @@ jobs:
       - name: Say Hello
         run: |
           echo "Hello World"
+      - name: Checking Date
+        run: |
+          date
